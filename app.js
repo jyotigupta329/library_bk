@@ -38,7 +38,7 @@ const options = {
     cert: fs.readFileSync('./keys/certificate.crt')
 };
 
-//How to create https server ?? answer
+// To create https server
 https.createServer(options, restApp).listen(443);
 
 module.exports = restApp;
