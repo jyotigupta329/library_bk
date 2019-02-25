@@ -1,0 +1,23 @@
+{
+  "name": "library_bk",
+  "version": "1.0.0",
+  "description": "Library Management System demonstrating Rest API's",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jyotigupta329/library_bk.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Jyoti Kumari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jyotigupta329/library_bk/issues"
+  },
+  "homepage": "https://github.com/jyotigupta329/library_bk#readme"
+}
